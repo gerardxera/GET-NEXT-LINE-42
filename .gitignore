@@ -1,0 +1,15 @@
+# Ejecutables y binarios
+*.out
+*.a
+*.so
+a.out
+
+# Archivos objeto de compilación
+*.o
+
+# Archivos temporales de editores
+.DS_Store
+*~
+*.swp
+.vscode/
+.idea/
